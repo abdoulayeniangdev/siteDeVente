@@ -269,13 +269,13 @@
 .plant-grid4 {
     background: url(images/nos_produits/4.jpg);
     grid-column: 1;
-    grid-row: 3 / 5;
+    grid-row: 3 / 5;     
 }
 
 .plant-grid5 {
     background: url(images/nos_produits/5.jpg);
     grid-column: 2 / 4;
-    grid-row: 3 / 5;
+    grid-row: 3 / 5;   
 }
 
 .plant-grid6 {
